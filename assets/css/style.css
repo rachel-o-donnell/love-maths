@@ -6,6 +6,7 @@ body {
     color: #445361;
     text-align: center;
 }
+
 /* --------- Heading */
 
 .heading {
@@ -114,8 +115,8 @@ body {
     content: attr(data-type);
     font-size: 1rem;
     color: #445361;
-    position: relative
-    left: 0.5em
+    position: relative;
+    left: -0.5em
 }    
 
 .btn--blue {
